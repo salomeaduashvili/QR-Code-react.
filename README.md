@@ -6,8 +6,8 @@ creating the QR code card component. Design maching original Frontend Mentor QR 
 This version is implemented using React, with clean component structure and simple styling.
 
 ## ⚙️ Built With
-React: Vite 
-CSS 🎨
+- React: Vite 
+- CSS 🎨
 
 ## 🧩 Component Breakdown
 
@@ -19,14 +19,13 @@ card.jsx
    
 App.jsx
 - Renders the Card component and centers it on the page.
----
 
 ## 🚀 URL/Live page:
 - Deployed on Vercel.
 - Link: https://qr-code-react-two.vercel.app/
 
 ---
-
 ### 🙌 Author
 Salome Aduashvili
+
 
